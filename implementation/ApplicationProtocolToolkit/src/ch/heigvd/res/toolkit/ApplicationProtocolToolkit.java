@@ -22,6 +22,8 @@ public class ApplicationProtocolToolkit {
 	 * @param args the command line arguments
 	 */
 	public static void main(String[] args) {
+	    
+	    	System.out.println("LALALALA");
 		//System.setProperty("java.util.logging.SimpleFormatter.format", "%2$s %n---> %5$s %n %n");
 		System.setProperty("java.util.logging.SimpleFormatter.format", "%5$s %n");
 		
