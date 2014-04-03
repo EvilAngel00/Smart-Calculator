@@ -24,6 +24,7 @@ public class ApplicationProtocolToolkit {
 	public static void main(String[] args) {
 	    
 	    	System.out.println("LALALALA");
+	    	System.out.println("LILILILI");
 		//System.setProperty("java.util.logging.SimpleFormatter.format", "%2$s %n---> %5$s %n %n");
 		System.setProperty("java.util.logging.SimpleFormatter.format", "%5$s %n");
 		
